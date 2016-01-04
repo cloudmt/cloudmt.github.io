@@ -5,7 +5,7 @@ function initialize()
     {
       zoom: 13,
       center: new google.maps.LatLng(45.45, -77.32),
-      mapTypeId: google.maps.MapTypeId.ROADMAP
+      mapTypeId: google.maps.MapTypeId.HYBRID
     }
   );
 
