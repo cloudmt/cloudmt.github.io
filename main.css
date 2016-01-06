@@ -1,7 +1,13 @@
 
 body
 {
-  text-align: center; 
   font-family: arial; 
-  color: rgb(200, 200, 200);
+  color: rgb(150, 150, 150);
+  padding: 5em;
+}
+
+a
+{
+  color: rgb(80, 200, 200);
+  text-decoration : none;
 }
