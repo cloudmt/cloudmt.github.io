@@ -2,12 +2,12 @@
 body
 {
   font-family: arial; 
-  color: rgb(150, 150, 150);
+  color: rgb(140, 140, 140);
   padding: 5em;
 }
 
 a
 {
-  color: rgb(80, 200, 200);
+  color: rgb(70, 190, 190);
   text-decoration : none;
 }
